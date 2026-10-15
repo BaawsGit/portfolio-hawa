@@ -1,0 +1,12 @@
+# Dossier source brut à ne pas déployer
+@Dossier candidature Hawa/
+"@Dossier candidature Hawa/"
+*Dossier candidature*
+*.MOV
+*.mov
+
+# Système
+.DS_Store
+Thumbs.db
+.git
+.vscode

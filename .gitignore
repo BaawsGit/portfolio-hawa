@@ -1,0 +1,11 @@
+# Dossier source brut volumineux
+"@Dossier candidature Hawa/"
+*Dossier candidature*
+*.MOV
+*.mov
+
+# Système
+.DS_Store
+Thumbs.db
+.vscode/
+.vercel/
